@@ -7,7 +7,7 @@ Ce programme est un convertisseur d'unités simple réalisé en utilisant Python
 - Conversion kilomètres en miles
 - Conversion miles en kilomètres
 
-- 
+  
 Fonctions de conversion
 Le programme comprend les fonctions suivantes :
 
@@ -22,7 +22,7 @@ Guide d'utilisation
 - Clonez ou téléchargez les fichiers de ce projet.
 - Ouvrez un terminal/commande dans le répertoire du projet.
 - Exécutez la commande suivante pour lancer le programme : python converter.py
-- 
+  
 Le programme affiche un menu avec les options de conversion disponibles.
 Choisissez une option en entrant le numéro correspondant.
 Suivez les instructions pour saisir la valeur à convertir.
